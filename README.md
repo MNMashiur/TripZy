@@ -69,7 +69,23 @@ The goal was to create a modern and user-friendly digital experience while maint
 
 ## Preview
 
-Add your screenshots inside the `assets/` folder and showcase them here.
+### Splash Screen
+![Splash Screen](assets/tripzy.png)
+
+### Home Screen
+![Home Screen](assets/tripzy3.png)
+
+### Destination Overview
+![Destination Overview](assets/tripzy4.png)
+
+### Hotel Options & Overview
+![Hotels](assets/tripzy5.png)
+
+### Profile View
+![Profile View](assets/tripzy1.png)
+
+### Theme Change (Dark/Light)
+![Theme Preview](assets/tripzy2.png)
 
 ---
 
