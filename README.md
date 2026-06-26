@@ -6,7 +6,7 @@ A complete UI/UX design prototype created in **Figma** for an academic assignmen
 
 ## Figma Design Link
 
-[View Design Here](https://www.figma.com/design/ygyRMJ7BHMRlvLsVEhco2s/428-Assignment?t=BSVbUoWsHNP3XvHY-1)
+[Live Link Here](https://www.figma.com/design/ygyRMJ7BHMRlvLsVEhco2s/428-Assignment?t=BSVbUoWsHNP3XvHY-1)
 
 ---
 
